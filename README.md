@@ -20,4 +20,3 @@ and *run* the react project
     
 ![](https://github.com/isaacwrk/js-exercises/blob/master/ex/coin.png)
 
-[Click here](https://isaacwrk.github.io/react-coin-converter/) to test it !
